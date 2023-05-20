@@ -9,7 +9,7 @@ handlers:
 
 
   manual_scaling:
-  instances: 10
+    instances: 10
 
 # automatic_scaling:
 #   min_instances: 0
